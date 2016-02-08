@@ -1,0 +1,58 @@
+body {
+	width: 800px;
+	margin: auto;
+	background-color: ;
+}
+
+button {
+	margin-left: 5px;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: ;
+}
+
+#buttons1, #buttons2 {
+	text-align: center;
+	margin: 15px;
+}
+
+.hide {
+	display: none;
+}
+
+/*Add a class to change the look of the clicked button*/
+.selected {
+	background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.index-point {
+    width: 25px;
+    height: 25px;
+    background-color: #dad5d2;
+    border: 1px solid black;
+    float: left;
+    display: inline-block;
+}
+
+.index-point-active {
+    background-color: #ee100d;
+}
+
+.person-shoutout {
+    height: 200px;
+}*/
